@@ -3,7 +3,7 @@
 ML classification model predicting NBA All-Star selections from 30 seasons of data (1996–2026).
 
 ## 🔗 Links
-- 📊 [Interactive Dashboard](https://pilee11.github.io/nba-allstar-predictor/NBA_Dashboard.html)
+- 📊 [Interactive Dashboard](https://pilee11.github.io/nba-allstar-predictor/NBA%20Dashboard.html)
 - 📓 [Full Notebook](https://github.com/pilee11/nba-allstar-predictor/blob/main/notebook.ipynb)
 
 ## 📈 Results
